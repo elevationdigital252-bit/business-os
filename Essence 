@@ -1,0 +1,9 @@
+/essence
+  /core
+    /auth
+    /users
+    /roles
+    /permissions
+    /settings
+    /modules
+    /branding
